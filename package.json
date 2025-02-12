@@ -1,0 +1,29 @@
+{
+  "name": "labos-ria2",
+  "version": "1.0.0",
+  "description": "# RIA2 - LABOS",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-Moraz/LABOS-RIA2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastien-Moraz/LABOS-RIA2/issues"
+  },
+  "homepage": "https://github.com/Sebastien-Moraz/LABOS-RIA2#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0",
+    "http-server": "^14.1.1",
+    "jest": "^29.7.0"
+  }
+}
